@@ -1,1 +1,1 @@
-The great <span style="color=#0000FF">House</span> of Leaves Re-read project.
+The great [House](http://en.wikipedia.org/wiki/House_of_Leaves) of Leaves Re-read project.
