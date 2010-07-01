@@ -1,1 +1,33 @@
-body{background-color:#FFF;color:#222;padding-bottom:30px;}
+body{background-color:#fff;margin:0 0 20px 20px;}
+a,a:link,a:visited,a:active{color:CC0000;text-decoration:line-through;}
+a:hover{background-color:#C00;text-decoration:none;color:#FFF;}
+.border_red{border:#C00;border-style:solid;border-width:1px;}
+.border_red_journal{border:#C00;background-color:#FFF;border-style:solid;border-width:1px;}
+.border_dashed_red{border:#C00;border-style:dashed;border-width:1px;}
+.text{font-family:Courier New,Courier,Times New Roman,Times,Verdana,Geneva,Arial,Helvetica,serif;font-size:8.5pt;color:000000;}
+.news_puzzle_top{font-family:Times New Roman,Times,Courier New,Courier,Verdana,Geneva,Arial,Helvetica,serif;font-size:17pt;font-weight:700;color:000000;}
+.bio_puzzle_subtext{font-family:Times New Roman,Times,Courier New,Courier,Verdana,Geneva,Arial,Helvetica,serif;font-size:9pt;color:000000;}
+.border_black{border:#000;border-style:solid;border-width:1px;}
+.music_tracks{font-family:Courier New,Courier,Times New Roman,Times,Verdana,Geneva,Arial,Helvetica,serif;font-size:12pt;color:000000;}
+.video_title{font-family:Times New Roman, Times,Courier New,Courier,Verdana,Geneva,Arial,Helvetica,serif;font-size:14pt;color:000000;font-weight:700;}
+.video_clickhere{font-family:Verdana,Geneva,Arial,Helvetica,serif;font-size:8pt;color:FFFFFF;font-weight:700;}
+.video_quicktime{font-family:Verdana,Geneva,Arial,Helvetica,sans-serif;font-size:6.5pt;color:FFFFFF;}
+.contact_section{font-family:Times New Roman,Times,Verdana,Geneva,Arial,Helvetica,serif;font-size:12pt;color:000000;font-weight:700;text-decoration:underline;}
+.contact_title{font-family:Courier New,Courier,Times New Roman,Times,Verdana,Geneva,Arial,Helvetica,serif;font-size:14pt;color:000000;font-weight:700;}
+.presskit_input{font-family:Courier New,Courier,Times New Roman,Times,Verdana,Geneva,Arial,Helvetica,serif;font-size:8.5pt;color:CC0000;border:1px dashed;border-color:CC0000;}
+.presskit_subtext{font-family:Times New Roman,Times,Verdana,Geneva,Arial,Helvetica,serif;font-size:8pt;color:000000;}
+.store_item{font-family:Courier New,Courier,Verdana,Geneva,Arial,Helvetica,serif;font-size:10pt;color:000000;font-weight:700;}
+select,option{font-family:Courier New,Courier,Times New Roman,Times,Verdana,Geneva,Arial,Helvetica,serif;font-size:8.5pt;color:CC0000;border:1px dotted;border-color:CC0000;}
+.support_title{font-family:Courier New,Courier,Times New Roman,Times,Verdana,Geneva,Arial,Helvetica,serif;font-size:12pt;color:000000;font-weight:700;}
+.support_puzzle_title{font-family:Times New Roman,Times,Courier New,Courier,Verdana,Geneva,Arial,Helvetica,serif;font-size:8pt;color:000000;font-style:italic;}
+.text_large{font-family:Times New Roman,Times,Courier New,Courier,Verdana,Geneva,Arial,Helvetica,serif;font-size:27pt;color:000000;}
+div.shapedlikeagun_left{position:absolute;left:0;top:0;overflow:visible;height:163px;width:163px;z-index:1000000000;border:none;float:none;margin:0;padding:0;}
+div.shapedlikeagun_right{position:absolute;left:100%;top:0;overflow:visible;height:163px;width:163px;z-index:1000000000;border:none;float:none;margin:0 0 0 -163px;padding:0;}
+.border_signup,.border_dashed{border:#000;border-style:dashed;border-width:1px;}
+.menu_title,.music_title,.faq{font-family:Courier New,Courier,Times New Roman,Times,Verdana,Geneva,Arial,Helvetica,serif;font-size:10pt;color:000000;}
+.signup,.store_small{font-family:Times New Roman,Times,Courier New,Courier,Verdana,Geneva,Arial,Helvetica,serif;font-size:8pt;color:000000;}
+.footnotes,.bio_subtext,.music_subtitle,.video_subtitle{font-family:Verdana,Geneva,Arial,Helvetica,sans-serif;font-size:6.5pt;color:000000;}
+.footnotes2,.music_puzzle{font-family:Times New Roman,Times,Courier New,Courier,Verdana,Geneva,Arial,Helvetica,serif;font-size:10pt;color:000000;}
+.date,.bio_puzzle,.store_shipping{font-family:Times New Roman,Times,Courier New,Courier,Verdana,Geneva,Arial,Helvetica,serif;font-size:8pt;font-style:italic;color:000000;}
+.bio_puzzle_title,.music_puzzle_title,.contact_puzzle_title,.boxset_title{font-family:Times New Roman,Times,Courier New,Courier,Verdana,Geneva,Arial,Helvetica,serif;font-size:12pt;color:000000;font-weight:700;}
+.store_puzzle,.nowplaying{font-family:Times New Roman,Times,Courier New,Courier,Verdana,Geneva,Arial,Helvetica,serif;font-size:7pt;color:000000;}

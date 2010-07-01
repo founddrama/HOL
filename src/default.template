@@ -14,8 +14,98 @@
     <link href="{relocatable: default.css}" rel="stylesheet" type="text/css"/>
 </head>
 <body>
-  <webgen:block name="content"/>
 
+<body> 
+  <table cellpadding="0" cellspacing="0" border="0"> 
+    <tr> 
+      <td valign="top" class="text" width="480"> 
+        <br/> 
+        <br/> 
+        <div align="center"> 
+          <webgen:block name="heading"/>
+        </div> 
+        <br/> 
+        <br/>		
+        
+        <div class="text" align="justify"> 
+          <webgen:block name="content"/>
+          <br/>
+        </div>
+       
+        <hr/>
+        
+       
+        <!-- FOOTNOTES -->
+        <div class="text" align="justify"> 
+          <p><a href="http://fogus.me">fogus</a> and <a href="http://founddrama.net">friesel</a></p>
+        </div> 
+       
+      </td> 
+
+      <td width="20"> &nbsp; </td> 
+      <td valign="top" width="280" class="text"> 
+	<br/> 
+	<br/> 
+        
+        <table cellpadding="0" cellspacing="0" border="0"> 
+          <tr> 
+            <td> &nbsp; &nbsp; </td> 
+            <td class="menu_title"> 
+              XXXXXXXXXXXXX<b>XXXXXXX<br/> 
+	        XXXXX</b>XXX<a href="http://fogus.me/fun/HOL/"><span style="color: #0000ee">H</span>O<b>XX</b>L</a><br/> 
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b></b>XXXXXXX<br/> 
+            </td> 
+          </tr> 
+        </table> 
+        
+        <table cellpadding="0" cellspacing="0" border="0" class="text" width="200"> 
+          <tr> 
+            <td align="center" class="footnotes2"> 
+              <font color="#cccccc">ash tree</font><br/> 
+              <br/> 
+            </td> 
+          </tr> 
+        </table> 
+
+        <table cellpadding="0" cellspacing="5" border="0" class="border_signup" width="200"> 
+          <tr> 
+            <td class="text"> 
+              &nbsp; xxX<b>XX<font color="#CC0000">PART</b>I<a href="http://github.com/fogus/HOL">CIPATE</font> Xxxx X</a><br/> 
+            </td> 
+          </tr> 
+          <tr> 
+            <td align="left" class="text"> 
+              <br/> 
+              &nbsp;&nbsp; @@@@ @@@@@@@@@@@@@ @@@<br/> 
+              &nbsp;@ @@@@@@@@@@@@@@<span style="text-decoration: blink;">@</span>@@@@@<br/> 
+            </td> 
+          </tr> 
+        </table> 
+
+	<br/>		
+	<br/> 
+	<br/> 
+	<br/> 
+        
+	<div align="right" class="text"> 
+	  <!-- eno<a href="#">ugh <b>sleep</b></a> &nbsp; &nbsp;<br/> -->
+	  ............ &nbsp; &nbsp;
+          <table cellpadding="10" cellspacing="0" class="border_red"> 
+            <tr> 
+              <td class="text"> 
+                <a href="http://fogus.me/fun/HOL/00/"           style="text-decoration:none">intro</a>....................xi<br/> 
+                <a href="http://fogus.me/fun/HOL/muss-es-sein/" style="text-decoration:none">muss es sein</a>..............?<br/> 
+              </td> 
+            </tr> 
+          </table> 
+	</div> 
+	
+	<div align="center" class="text">
+          <webgen:block name="marginalia"/>
+	</div> 
+      </td> 
+    </tr> 
+  </table> 
 
 
 <script type="text/javascript"> 
