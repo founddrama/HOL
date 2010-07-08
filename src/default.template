@@ -93,8 +93,16 @@
           <table cellpadding="10" cellspacing="0" class="border_red"> 
             <tr> 
               <td class="text"> 
-                <a href="http://fogus.me/fun/HOL/00/"           style="text-decoration:none">intro</a>....................xi<br/> 
+                <a href="http://fogus.me/fun/HOL/00/"           style="text-decoration:none">intro</a>....................xi<br/>
+                <a href="http://fogus.me/fun/HOL/years/"        style="text-decoration:none">years</a>......................<br/>
                 <a href="http://fogus.me/fun/HOL/muss-es-sein/" style="text-decoration:none">muss es sein</a>..............?<br/> 
+                <a href="http://fogus.me/fun/HOL/01/"           style="text-decoration:none">I</a>..........................<br/>
+                <a href="http://fogus.me/fun/HOL/02/"           style="text-decoration:none">II</a>.........................<br/>
+                <a href="http://fogus.me/fun/HOL/03/"           style="text-decoration:none">III</a>........................<br/>
+                <a href="http://fogus.me/fun/HOL/04/"           style="text-decoration:none">IV</a>.........................<br/>
+                <a href="http://fogus.me/fun/HOL/05/"           style="text-decoration:none">V</a>..........................<br/>
+                <a href="http://fogus.me/fun/HOL/06/"           style="text-decoration:none">VI</a>.........................<br/>
+                <a href="http://fogus.me/fun/HOL/07/"           style="text-decoration:none">VII</a>........................<br/>
               </td> 
             </tr> 
           </table> 
