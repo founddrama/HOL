@@ -1,23 +1,41 @@
 ---
 title: House of Leaves- significant years in the life of the house
 ---
-
-<table>
+<style>
+.chronology TR {
+	border: 1px solid black;
+}
+.chronology TD {
+	border-right: 1px solid black;
+}
+</style>
+<table class="chronology">
 	<tr><td colspan="2"> *significant years in the life of the <span style="color:#0000ee;">house</span>* </td></tr>
 	<tr>
 		<td>1981</td>
 		<td>
-			1st extant blueprint of the <span style="color:#0000ee">house</span>
+			- 1st extant blueprint of the <span style="color:#0000ee">house</span>
 		</td>
 	</tr>
 	<tr>
 		<td>1989</td>
 		<td>
-			- Navidson et al. move into the <span style="color:#0000ee">house</span> (?)
+			- Navidson et al. move into the <span style="color:#0000ee">house</span> (?)<br/>
 			- 1989/9=221
 		</td>
-	</tr>
-	
+	</tr>	
+	<tr>
+		<td>1994</td>
+		<td>
+			- novelization of _The Navidson Record_ published
+		</td>
+	</tr>	
+	<tr>
+		<td>1996</td>
+		<td>
+			- PBS documentary airs
+		</td>
+	</tr>	
 </table>
 
 --- name:marginalia
