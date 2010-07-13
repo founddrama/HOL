@@ -10,10 +10,10 @@ title: House of Leaves- Chapter XVI
 
 @ opening epigraph - Einstein on science's frailty
 
-so much is <s>inked out</s>
+so much is <span style="background-color:black;color:#222222;padding:2px;">inked out</span>
 
 *SIDE NOTE:* 
-<br/>- why does <s>Zampanò</s> Truant (Danielewski?) "ink out" so much of this chapter?
+<br/>- why does <s>Zampanò</s> Truant (Danielewski?) "<span style="background-color:black;color:#222222;padding:2px;">ink out</span>" so much of this chapter?
 <br/>- &amp; then why leave any clues at all?
 <br/>- more on "authorial authority" -- @todo - speculate ?
 
